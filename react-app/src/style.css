@@ -1,0 +1,25 @@
+.login-form {
+  width: 20%;
+
+}
+
+.center {
+  text-align: center;
+}
+
+.center-item {
+  display: block !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.size-mid {
+  width:50%;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 10px;
+  grid-row-gap: 10px;
+}
